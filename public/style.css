@@ -1,0 +1,18 @@
+h1{
+    color:maroon;
+
+}
+.post{
+    background-color: blanchedalmond;
+    border: 1px solid darkgrey;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px 0;
+}
+.user{
+    color: darkblue;
+    font-style: italic;
+}
+.content{
+    color: darkgreen;
+}
